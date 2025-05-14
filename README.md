@@ -20,14 +20,3 @@ based on the dataset provided by https://www.kaggle.com/datasets/fernandorubioga
 * Conclusion
 =======
 - Note: Must download the .csv from the Kaggle link provided above as git has a limit on size and the dataset exceeds this limit even when compressed.
-
-# To Install:
-1. Run the following command in the folder of your choosing
-   - git clone https://git.txstate.edu/Mdj120/ML
-2. Put the downloaded .csv from kaggle into the folder containing the project cloned.
-
-# To Use:
-1. Navigate to the "project" folder.
-2. Find the file "Final_submission_mdj120.ipynb"
-3. You can either run the Jupyter Notebook all at once or each cell seperatly.
->>>>>>> d23af225ce5375f9a55d9e66ce342dab2d1b18e4
